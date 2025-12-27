@@ -1,0 +1,1 @@
+Built regression and clustering models on historical Olympic data to analyze national medal performance. Applied feature engineering, Ridge regression, and K-Means clustering to identify performance drivers and country archetypes. Interpreted model results using statistical reasoning and performance metrics.
